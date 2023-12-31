@@ -1,0 +1,1199 @@
+2023-12-30 17:54:44,252 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:44,976 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AA&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:54:45,050 - INFO - Counts: AA 197
+2023-12-30 17:54:45,050 - INFO - Processing: AA0
+2023-12-30 17:54:45,053 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:45,487 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AA&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:45,605 - INFO - Processing: AA100
+2023-12-30 17:54:45,606 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:45,999 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AA&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:46,134 - INFO - Processing: AA200
+2023-12-30 17:54:46,135 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:46,511 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AA&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:46,603 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:47,126 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:54:47,183 - INFO - Counts: AB 3363
+2023-12-30 17:54:47,184 - INFO - Processing: AB0
+2023-12-30 17:54:47,186 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:47,565 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:47,755 - INFO - Processing: AB100
+2023-12-30 17:54:47,757 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:48,251 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:48,366 - INFO - Processing: AB200
+2023-12-30 17:54:48,367 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:48,849 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:49,141 - INFO - Processing: AB300
+2023-12-30 17:54:49,142 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:49,684 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:49,840 - INFO - Processing: AB400
+2023-12-30 17:54:49,841 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:50,378 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:50,579 - INFO - Processing: AB500
+2023-12-30 17:54:50,581 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:50,988 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:51,122 - INFO - Processing: AB600
+2023-12-30 17:54:51,123 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:51,637 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:51,772 - INFO - Processing: AB700
+2023-12-30 17:54:51,773 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:52,347 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:52,490 - INFO - Processing: AB800
+2023-12-30 17:54:52,492 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:53,058 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:53,205 - INFO - Processing: AB900
+2023-12-30 17:54:53,207 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:53,781 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:54,328 - INFO - Processing: AB1000
+2023-12-30 17:54:54,329 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:54,805 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:54,938 - INFO - Processing: AB1100
+2023-12-30 17:54:54,940 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:55,420 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:55,569 - INFO - Processing: AB1200
+2023-12-30 17:54:55,570 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:56,137 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:56,259 - INFO - Processing: AB1300
+2023-12-30 17:54:56,260 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:56,749 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:56,929 - INFO - Processing: AB1400
+2023-12-30 17:54:56,931 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:57,394 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:57,611 - INFO - Processing: AB1500
+2023-12-30 17:54:57,612 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:58,086 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:58,232 - INFO - Processing: AB1600
+2023-12-30 17:54:58,234 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:58,629 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:58,764 - INFO - Processing: AB1700
+2023-12-30 17:54:58,765 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:59,292 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:54:59,457 - INFO - Processing: AB1800
+2023-12-30 17:54:59,459 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:54:59,925 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:00,089 - INFO - Processing: AB1900
+2023-12-30 17:55:00,090 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:00,538 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=1900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:00,665 - INFO - Processing: AB2000
+2023-12-30 17:55:00,666 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:01,098 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:01,284 - INFO - Processing: AB2100
+2023-12-30 17:55:01,286 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:01,738 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:01,947 - INFO - Processing: AB2200
+2023-12-30 17:55:01,949 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:02,383 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:02,519 - INFO - Processing: AB2300
+2023-12-30 17:55:02,520 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:03,012 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:03,212 - INFO - Processing: AB2400
+2023-12-30 17:55:03,214 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:03,714 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:03,847 - INFO - Processing: AB2500
+2023-12-30 17:55:03,848 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:04,432 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:04,563 - INFO - Processing: AB2600
+2023-12-30 17:55:04,564 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:05,148 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:05,283 - INFO - Processing: AB2700
+2023-12-30 17:55:05,284 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:05,762 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:05,918 - INFO - Processing: AB2800
+2023-12-30 17:55:05,919 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:06,581 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:06,907 - INFO - Processing: AB2900
+2023-12-30 17:55:06,908 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:07,353 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=2900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:07,518 - INFO - Processing: AB3000
+2023-12-30 17:55:07,519 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:08,014 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=3000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:08,137 - INFO - Processing: AB3100
+2023-12-30 17:55:08,138 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:08,732 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=3100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:08,909 - INFO - Processing: AB3200
+2023-12-30 17:55:08,910 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:09,449 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=3200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:09,581 - INFO - Processing: AB3300
+2023-12-30 17:55:09,583 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:09,957 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=3300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:10,138 - INFO - Processing: AB3400
+2023-12-30 17:55:10,139 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:10,681 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AB&t=A&b=3400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:10,771 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:11,297 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:55:11,369 - INFO - Counts: AC 1179
+2023-12-30 17:55:11,370 - INFO - Processing: AC0
+2023-12-30 17:55:11,375 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:11,808 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:11,959 - INFO - Processing: AC100
+2023-12-30 17:55:11,960 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:12,395 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:12,590 - INFO - Processing: AC200
+2023-12-30 17:55:12,592 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:13,061 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:13,287 - INFO - Processing: AC300
+2023-12-30 17:55:13,288 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:13,855 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:13,983 - INFO - Processing: AC400
+2023-12-30 17:55:13,984 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:14,473 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:14,627 - INFO - Processing: AC500
+2023-12-30 17:55:14,628 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:15,076 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:15,294 - INFO - Processing: AC600
+2023-12-30 17:55:15,296 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:15,801 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:15,930 - INFO - Processing: AC700
+2023-12-30 17:55:15,932 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:16,415 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:16,589 - INFO - Processing: AC800
+2023-12-30 17:55:16,590 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:17,032 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:17,160 - INFO - Processing: AC900
+2023-12-30 17:55:17,161 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:17,565 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:17,755 - INFO - Processing: AC1000
+2023-12-30 17:55:17,757 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:18,184 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:18,380 - INFO - Processing: AC1100
+2023-12-30 17:55:18,381 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:18,826 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:19,024 - INFO - Processing: AC1200
+2023-12-30 17:55:19,051 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:19,592 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AC&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:19,693 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:20,076 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:55:20,149 - INFO - Counts: AD 3582
+2023-12-30 17:55:20,149 - INFO - Processing: AD0
+2023-12-30 17:55:20,153 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:20,588 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:20,771 - INFO - Processing: AD100
+2023-12-30 17:55:20,773 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:21,242 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:21,414 - INFO - Processing: AD200
+2023-12-30 17:55:21,415 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:21,946 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:22,083 - INFO - Processing: AD300
+2023-12-30 17:55:22,084 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:22,497 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:22,673 - INFO - Processing: AD400
+2023-12-30 17:55:22,675 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:23,092 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:23,283 - INFO - Processing: AD500
+2023-12-30 17:55:23,284 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:23,788 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:23,950 - INFO - Processing: AD600
+2023-12-30 17:55:23,952 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:24,438 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:24,605 - INFO - Processing: AD700
+2023-12-30 17:55:24,606 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:25,120 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:25,292 - INFO - Processing: AD800
+2023-12-30 17:55:25,294 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:25,841 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:25,992 - INFO - Processing: AD900
+2023-12-30 17:55:25,993 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:26,955 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:27,124 - INFO - Processing: AD1000
+2023-12-30 17:55:27,125 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:27,582 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:27,897 - INFO - Processing: AD1100
+2023-12-30 17:55:27,898 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:28,397 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:28,529 - INFO - Processing: AD1200
+2023-12-30 17:55:28,530 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:28,897 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:29,152 - INFO - Processing: AD1300
+2023-12-30 17:55:29,153 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:29,694 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:29,928 - INFO - Processing: AD1400
+2023-12-30 17:55:29,929 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:30,420 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:30,597 - INFO - Processing: AD1500
+2023-12-30 17:55:30,600 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:31,006 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:31,203 - INFO - Processing: AD1600
+2023-12-30 17:55:31,205 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:31,674 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:31,800 - INFO - Processing: AD1700
+2023-12-30 17:55:31,802 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:32,464 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:32,683 - INFO - Processing: AD1800
+2023-12-30 17:55:32,684 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:33,108 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:33,305 - INFO - Processing: AD1900
+2023-12-30 17:55:33,307 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:33,823 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=1900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:33,954 - INFO - Processing: AD2000
+2023-12-30 17:55:33,955 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:34,426 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:34,616 - INFO - Processing: AD2100
+2023-12-30 17:55:34,617 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:35,182 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:35,498 - INFO - Processing: AD2200
+2023-12-30 17:55:35,499 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:35,975 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:36,118 - INFO - Processing: AD2300
+2023-12-30 17:55:36,120 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:36,589 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:36,715 - INFO - Processing: AD2400
+2023-12-30 17:55:36,716 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:37,101 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:37,228 - INFO - Processing: AD2500
+2023-12-30 17:55:37,229 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:37,715 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:37,838 - INFO - Processing: AD2600
+2023-12-30 17:55:37,839 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:38,293 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:38,500 - INFO - Processing: AD2700
+2023-12-30 17:55:38,501 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:38,880 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:39,061 - INFO - Processing: AD2800
+2023-12-30 17:55:39,062 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:39,468 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:39,651 - INFO - Processing: AD2900
+2023-12-30 17:55:39,653 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:40,173 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=2900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:40,549 - INFO - Processing: AD3000
+2023-12-30 17:55:40,551 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:41,096 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=3000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:41,228 - INFO - Processing: AD3100
+2023-12-30 17:55:41,229 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:41,682 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=3100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:41,821 - INFO - Processing: AD3200
+2023-12-30 17:55:41,822 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:42,323 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=3200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:42,486 - INFO - Processing: AD3300
+2023-12-30 17:55:42,487 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:42,936 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=3300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:43,134 - INFO - Processing: AD3400
+2023-12-30 17:55:43,135 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:43,552 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=3400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:43,675 - INFO - Processing: AD3500
+2023-12-30 17:55:43,677 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:44,064 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=3500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:44,261 - INFO - Processing: AD3600
+2023-12-30 17:55:44,262 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:44,780 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AD&t=A&b=3600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:44,878 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:45,396 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:55:45,479 - INFO - Counts: AE 510
+2023-12-30 17:55:45,479 - INFO - Processing: AE0
+2023-12-30 17:55:45,492 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:45,966 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:46,183 - INFO - Processing: AE100
+2023-12-30 17:55:46,185 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:46,726 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:46,874 - INFO - Processing: AE200
+2023-12-30 17:55:46,875 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:47,338 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:47,555 - INFO - Processing: AE300
+2023-12-30 17:55:47,556 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:48,058 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:48,192 - INFO - Processing: AE400
+2023-12-30 17:55:48,193 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:48,672 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:48,809 - INFO - Processing: AE500
+2023-12-30 17:55:48,811 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:49,389 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:49,734 - INFO - Processing: AE600
+2023-12-30 17:55:49,736 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:50,106 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AE&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:50,221 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:50,675 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AF&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:55:50,749 - INFO - Counts: AF 318
+2023-12-30 17:55:50,750 - INFO - Processing: AF0
+2023-12-30 17:55:50,756 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:51,225 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AF&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:51,361 - INFO - Processing: AF100
+2023-12-30 17:55:51,362 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:51,950 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AF&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:52,080 - INFO - Processing: AF200
+2023-12-30 17:55:52,081 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:52,583 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AF&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:52,806 - INFO - Processing: AF300
+2023-12-30 17:55:52,807 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:53,128 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AF&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:53,243 - INFO - Processing: AF400
+2023-12-30 17:55:53,244 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:53,677 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AF&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:53,829 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:54,218 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:55:54,333 - INFO - Counts: AG 4551
+2023-12-30 17:55:54,333 - INFO - Processing: AG0
+2023-12-30 17:55:54,341 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:54,850 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:55,045 - INFO - Processing: AG100
+2023-12-30 17:55:55,046 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:55,476 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:55,613 - INFO - Processing: AG200
+2023-12-30 17:55:55,615 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:56,080 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:56,260 - INFO - Processing: AG300
+2023-12-30 17:55:56,261 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:56,826 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:57,027 - INFO - Processing: AG400
+2023-12-30 17:55:57,028 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:57,538 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:57,736 - INFO - Processing: AG500
+2023-12-30 17:55:57,738 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:58,195 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:58,348 - INFO - Processing: AG600
+2023-12-30 17:55:58,349 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:58,810 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:58,942 - INFO - Processing: AG700
+2023-12-30 17:55:58,944 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:55:59,392 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:55:59,605 - INFO - Processing: AG800
+2023-12-30 17:55:59,606 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:00,140 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:00,266 - INFO - Processing: AG900
+2023-12-30 17:56:00,267 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:00,755 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:00,968 - INFO - Processing: AG1000
+2023-12-30 17:56:00,969 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:01,473 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:01,626 - INFO - Processing: AG1100
+2023-12-30 17:56:01,628 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:02,086 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:02,271 - INFO - Processing: AG1200
+2023-12-30 17:56:02,273 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:02,804 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:03,164 - INFO - Processing: AG1300
+2023-12-30 17:56:03,165 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:03,658 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:03,813 - INFO - Processing: AG1400
+2023-12-30 17:56:03,814 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:04,545 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:04,675 - INFO - Processing: AG1500
+2023-12-30 17:56:04,676 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:05,159 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:05,318 - INFO - Processing: AG1600
+2023-12-30 17:56:05,319 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:05,875 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:06,030 - INFO - Processing: AG1700
+2023-12-30 17:56:06,031 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:06,448 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:06,640 - INFO - Processing: AG1800
+2023-12-30 17:56:06,642 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:07,139 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:07,313 - INFO - Processing: AG1900
+2023-12-30 17:56:07,314 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:07,720 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=1900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:07,859 - INFO - Processing: AG2000
+2023-12-30 17:56:07,860 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:08,282 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:08,481 - INFO - Processing: AG2100
+2023-12-30 17:56:08,483 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:08,863 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:09,040 - INFO - Processing: AG2200
+2023-12-30 17:56:09,042 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:09,443 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:09,598 - INFO - Processing: AG2300
+2023-12-30 17:56:09,600 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:10,138 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:10,288 - INFO - Processing: AG2400
+2023-12-30 17:56:10,289 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:10,796 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:10,956 - INFO - Processing: AG2500
+2023-12-30 17:56:10,958 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:11,398 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:11,580 - INFO - Processing: AG2600
+2023-12-30 17:56:11,581 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:12,026 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:12,346 - INFO - Processing: AG2700
+2023-12-30 17:56:12,348 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:12,863 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:13,445 - INFO - Processing: AG2800
+2023-12-30 17:56:13,448 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:13,953 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:14,147 - INFO - Processing: AG2900
+2023-12-30 17:56:14,148 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:14,616 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=2900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:14,770 - INFO - Processing: AG3000
+2023-12-30 17:56:14,771 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:15,274 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:15,426 - INFO - Processing: AG3100
+2023-12-30 17:56:15,428 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:15,858 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:16,030 - INFO - Processing: AG3200
+2023-12-30 17:56:16,032 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:16,403 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:16,597 - INFO - Processing: AG3300
+2023-12-30 17:56:16,599 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:17,244 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:17,384 - INFO - Processing: AG3400
+2023-12-30 17:56:17,386 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:17,865 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:18,062 - INFO - Processing: AG3500
+2023-12-30 17:56:18,063 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:18,574 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:18,729 - INFO - Processing: AG3600
+2023-12-30 17:56:18,730 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:19,094 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:19,286 - INFO - Processing: AG3700
+2023-12-30 17:56:19,288 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:19,906 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:20,021 - INFO - Processing: AG3800
+2023-12-30 17:56:20,022 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:20,520 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:20,644 - INFO - Processing: AG3900
+2023-12-30 17:56:20,646 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:21,057 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=3900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:21,184 - INFO - Processing: AG4000
+2023-12-30 17:56:21,185 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:21,678 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=4000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:21,869 - INFO - Processing: AG4100
+2023-12-30 17:56:21,870 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:22,363 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=4100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:22,530 - INFO - Processing: AG4200
+2023-12-30 17:56:22,531 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:23,053 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=4200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:23,213 - INFO - Processing: AG4300
+2023-12-30 17:56:23,215 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:23,642 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=4300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:23,816 - INFO - Processing: AG4400
+2023-12-30 17:56:23,817 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:24,353 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=4400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:24,556 - INFO - Processing: AG4500
+2023-12-30 17:56:24,557 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:25,138 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=4500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:25,285 - INFO - Processing: AG4600
+2023-12-30 17:56:25,286 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:25,641 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AG&t=A&b=4600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:25,773 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:26,158 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AH&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:56:26,235 - INFO - Counts: AH 124
+2023-12-30 17:56:26,235 - INFO - Processing: AH0
+2023-12-30 17:56:26,240 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:26,767 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AH&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:26,899 - INFO - Processing: AH100
+2023-12-30 17:56:26,900 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:27,260 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AH&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:27,417 - INFO - Processing: AH200
+2023-12-30 17:56:27,419 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:27,868 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AH&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:27,993 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:28,404 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:56:28,481 - INFO - Counts: AI 893
+2023-12-30 17:56:28,481 - INFO - Processing: AI0
+2023-12-30 17:56:28,485 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:28,842 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:29,029 - INFO - Processing: AI100
+2023-12-30 17:56:29,030 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:29,404 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:29,795 - INFO - Processing: AI200
+2023-12-30 17:56:29,796 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:30,300 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:30,574 - INFO - Processing: AI300
+2023-12-30 17:56:30,575 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:31,067 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:31,216 - INFO - Processing: AI400
+2023-12-30 17:56:31,217 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:31,611 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:31,894 - INFO - Processing: AI500
+2023-12-30 17:56:31,912 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:32,525 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:32,704 - INFO - Processing: AI600
+2023-12-30 17:56:32,705 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:33,332 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:33,616 - INFO - Processing: AI700
+2023-12-30 17:56:33,617 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:34,035 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:35,056 - INFO - Processing: AI800
+2023-12-30 17:56:35,058 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:35,517 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:35,693 - INFO - Processing: AI900
+2023-12-30 17:56:35,694 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:36,108 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AI&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:36,648 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:37,211 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AJ&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:56:37,459 - INFO - Counts: AJ 101
+2023-12-30 17:56:37,460 - INFO - Processing: AJ0
+2023-12-30 17:56:37,467 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:37,895 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AJ&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:38,044 - INFO - Processing: AJ100
+2023-12-30 17:56:38,045 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:38,543 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AJ&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:38,648 - INFO - Processing: AJ200
+2023-12-30 17:56:38,650 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:39,259 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AJ&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:39,354 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:39,771 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AK&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:56:39,839 - INFO - Counts: AK 474
+2023-12-30 17:56:39,840 - INFO - Processing: AK0
+2023-12-30 17:56:39,844 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:40,591 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AK&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:41,272 - INFO - Processing: AK100
+2023-12-30 17:56:41,273 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:41,721 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AK&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:41,851 - INFO - Processing: AK200
+2023-12-30 17:56:41,852 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:42,412 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AK&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:42,566 - INFO - Processing: AK300
+2023-12-30 17:56:42,567 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:43,178 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AK&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:43,342 - INFO - Processing: AK400
+2023-12-30 17:56:43,343 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:44,142 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AK&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:44,274 - INFO - Processing: AK500
+2023-12-30 17:56:44,276 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:44,789 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AK&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:44,887 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:45,468 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:56:45,637 - INFO - Counts: AL 1962
+2023-12-30 17:56:45,637 - INFO - Processing: AL0
+2023-12-30 17:56:45,641 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:46,222 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:46,343 - INFO - Processing: AL100
+2023-12-30 17:56:46,345 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:46,897 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:47,103 - INFO - Processing: AL200
+2023-12-30 17:56:47,105 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:47,487 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:47,675 - INFO - Processing: AL300
+2023-12-30 17:56:47,676 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:48,169 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:48,339 - INFO - Processing: AL400
+2023-12-30 17:56:48,341 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:48,785 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:48,914 - INFO - Processing: AL500
+2023-12-30 17:56:48,915 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:49,266 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:49,443 - INFO - Processing: AL600
+2023-12-30 17:56:49,445 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:49,926 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:50,085 - INFO - Processing: AL700
+2023-12-30 17:56:50,086 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:50,484 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:50,633 - INFO - Processing: AL800
+2023-12-30 17:56:50,635 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:51,029 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:51,189 - INFO - Processing: AL900
+2023-12-30 17:56:51,190 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:51,649 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:51,783 - INFO - Processing: AL1000
+2023-12-30 17:56:51,785 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:52,221 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:52,350 - INFO - Processing: AL1100
+2023-12-30 17:56:52,352 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:52,878 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:53,041 - INFO - Processing: AL1200
+2023-12-30 17:56:53,042 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:53,493 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:53,626 - INFO - Processing: AL1300
+2023-12-30 17:56:53,627 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:54,109 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:54,263 - INFO - Processing: AL1400
+2023-12-30 17:56:54,264 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:54,719 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:54,871 - INFO - Processing: AL1500
+2023-12-30 17:56:54,872 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:55,321 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:55,547 - INFO - Processing: AL1600
+2023-12-30 17:56:55,548 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:55,984 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:56,145 - INFO - Processing: AL1700
+2023-12-30 17:56:56,146 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:56,519 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:56,661 - INFO - Processing: AL1800
+2023-12-30 17:56:56,662 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:57,078 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:57,195 - INFO - Processing: AL1900
+2023-12-30 17:56:57,196 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:57,597 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=1900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:57,737 - INFO - Processing: AL2000
+2023-12-30 17:56:57,739 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:58,612 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AL&t=A&b=2000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:58,773 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:59,194 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:56:59,316 - INFO - Counts: AM 1410
+2023-12-30 17:56:59,316 - INFO - Processing: AM0
+2023-12-30 17:56:59,321 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:56:59,841 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:56:59,971 - INFO - Processing: AM100
+2023-12-30 17:56:59,973 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:00,558 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:00,686 - INFO - Processing: AM200
+2023-12-30 17:57:00,687 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:01,173 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:01,294 - INFO - Processing: AM300
+2023-12-30 17:57:01,295 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:01,717 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:01,932 - INFO - Processing: AM400
+2023-12-30 17:57:01,934 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:02,588 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:02,758 - INFO - Processing: AM500
+2023-12-30 17:57:02,759 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:03,252 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:03,458 - INFO - Processing: AM600
+2023-12-30 17:57:03,460 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:03,934 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:04,136 - INFO - Processing: AM700
+2023-12-30 17:57:04,138 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:04,596 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:04,802 - INFO - Processing: AM800
+2023-12-30 17:57:04,803 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:05,474 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:05,606 - INFO - Processing: AM900
+2023-12-30 17:57:05,608 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:06,015 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:06,213 - INFO - Processing: AM1000
+2023-12-30 17:57:06,214 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:06,894 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:07,011 - INFO - Processing: AM1100
+2023-12-30 17:57:07,013 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:07,391 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:07,578 - INFO - Processing: AM1200
+2023-12-30 17:57:07,579 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:08,297 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:08,506 - INFO - Processing: AM1300
+2023-12-30 17:57:08,507 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:09,057 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:09,206 - INFO - Processing: AM1400
+2023-12-30 17:57:09,207 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:09,672 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:09,776 - INFO - Processing: AM1500
+2023-12-30 17:57:09,778 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:10,245 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AM&t=A&b=1500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:10,398 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:10,844 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:57:10,938 - INFO - Counts: AN 1561
+2023-12-30 17:57:10,938 - INFO - Processing: AN0
+2023-12-30 17:57:10,944 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:11,515 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:11,934 - INFO - Processing: AN100
+2023-12-30 17:57:11,935 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:12,335 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:12,465 - INFO - Processing: AN200
+2023-12-30 17:57:12,466 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:12,949 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:13,077 - INFO - Processing: AN300
+2023-12-30 17:57:13,078 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:13,563 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:13,695 - INFO - Processing: AN400
+2023-12-30 17:57:13,696 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:14,176 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:14,308 - INFO - Processing: AN500
+2023-12-30 17:57:14,309 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:14,895 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:15,023 - INFO - Processing: AN600
+2023-12-30 17:57:15,024 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:15,408 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:15,558 - INFO - Processing: AN700
+2023-12-30 17:57:15,560 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:16,061 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:16,314 - INFO - Processing: AN800
+2023-12-30 17:57:16,315 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:16,765 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:17,004 - INFO - Processing: AN900
+2023-12-30 17:57:17,005 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:17,463 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:17,662 - INFO - Processing: AN1000
+2023-12-30 17:57:17,663 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:18,162 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:18,357 - INFO - Processing: AN1100
+2023-12-30 17:57:18,358 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:18,928 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:19,104 - INFO - Processing: AN1200
+2023-12-30 17:57:19,105 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:19,527 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:19,721 - INFO - Processing: AN1300
+2023-12-30 17:57:19,722 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:20,246 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:20,441 - INFO - Processing: AN1400
+2023-12-30 17:57:20,443 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:21,038 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:21,236 - INFO - Processing: AN1500
+2023-12-30 17:57:21,238 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:21,755 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=1500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:21,871 - INFO - Processing: AN1600
+2023-12-30 17:57:21,872 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:22,372 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AN&t=A&b=1600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:22,493 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:22,984 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AO&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:57:23,301 - INFO - Counts: AO 116
+2023-12-30 17:57:23,302 - INFO - Processing: AO0
+2023-12-30 17:57:23,307 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:23,669 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AO&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:23,850 - INFO - Processing: AO100
+2023-12-30 17:57:23,851 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:24,289 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AO&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:24,431 - INFO - Processing: AO200
+2023-12-30 17:57:24,433 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:24,930 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AO&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:25,029 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:25,419 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:57:25,520 - INFO - Counts: AP 613
+2023-12-30 17:57:25,520 - INFO - Processing: AP0
+2023-12-30 17:57:25,526 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:26,057 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:26,208 - INFO - Processing: AP100
+2023-12-30 17:57:26,209 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:26,743 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:26,892 - INFO - Processing: AP200
+2023-12-30 17:57:26,894 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:27,385 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:27,593 - INFO - Processing: AP300
+2023-12-30 17:57:27,594 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:28,005 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:28,156 - INFO - Processing: AP400
+2023-12-30 17:57:28,158 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:28,618 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:28,744 - INFO - Processing: AP500
+2023-12-30 17:57:28,745 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:29,205 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:29,359 - INFO - Processing: AP600
+2023-12-30 17:57:29,360 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:29,845 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:29,949 - INFO - Processing: AP700
+2023-12-30 17:57:29,951 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:30,359 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AP&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:30,501 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:30,946 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AQ&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:57:31,035 - INFO - Counts: AQ 114
+2023-12-30 17:57:31,035 - INFO - Processing: AQ0
+2023-12-30 17:57:31,040 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:31,586 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AQ&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:31,709 - INFO - Processing: AQ100
+2023-12-30 17:57:31,711 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:32,098 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AQ&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:32,222 - INFO - Processing: AQ200
+2023-12-30 17:57:32,223 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:32,623 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AQ&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:32,794 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:33,177 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:57:33,308 - INFO - Counts: AR 1354
+2023-12-30 17:57:33,309 - INFO - Processing: AR0
+2023-12-30 17:57:33,312 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:33,736 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:33,895 - INFO - Processing: AR100
+2023-12-30 17:57:33,896 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:34,354 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:34,567 - INFO - Processing: AR200
+2023-12-30 17:57:34,569 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:35,067 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:35,191 - INFO - Processing: AR300
+2023-12-30 17:57:35,192 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:35,887 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:36,032 - INFO - Processing: AR400
+2023-12-30 17:57:36,033 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:36,500 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:36,701 - INFO - Processing: AR500
+2023-12-30 17:57:36,702 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:37,218 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:37,347 - INFO - Processing: AR600
+2023-12-30 17:57:37,348 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:37,718 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:37,904 - INFO - Processing: AR700
+2023-12-30 17:57:37,905 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:38,448 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:38,579 - INFO - Processing: AR800
+2023-12-30 17:57:38,580 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:39,164 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:39,332 - INFO - Processing: AR900
+2023-12-30 17:57:39,333 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:39,983 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:40,341 - INFO - Processing: AR1000
+2023-12-30 17:57:40,343 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:40,906 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:41,028 - INFO - Processing: AR1100
+2023-12-30 17:57:41,029 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:41,556 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:41,805 - INFO - Processing: AR1200
+2023-12-30 17:57:41,807 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:42,338 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:42,523 - INFO - Processing: AR1300
+2023-12-30 17:57:42,524 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:42,955 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:43,195 - INFO - Processing: AR1400
+2023-12-30 17:57:43,196 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:43,669 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AR&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:43,772 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:44,181 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:57:44,243 - INFO - Counts: AS 3657
+2023-12-30 17:57:44,244 - INFO - Processing: AS0
+2023-12-30 17:57:44,247 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:45,145 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:45,290 - INFO - Processing: AS100
+2023-12-30 17:57:45,292 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:45,820 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:46,019 - INFO - Processing: AS200
+2023-12-30 17:57:46,021 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:46,537 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:46,673 - INFO - Processing: AS300
+2023-12-30 17:57:46,674 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:47,162 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:47,388 - INFO - Processing: AS400
+2023-12-30 17:57:47,389 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:47,806 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:47,995 - INFO - Processing: AS500
+2023-12-30 17:57:47,996 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:48,437 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:48,650 - INFO - Processing: AS600
+2023-12-30 17:57:48,651 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:49,199 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:49,331 - INFO - Processing: AS700
+2023-12-30 17:57:49,332 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:50,019 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:50,142 - INFO - Processing: AS800
+2023-12-30 17:57:50,143 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:50,734 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:50,873 - INFO - Processing: AS900
+2023-12-30 17:57:50,874 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:51,347 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:51,549 - INFO - Processing: AS1000
+2023-12-30 17:57:51,550 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:52,433 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:52,567 - INFO - Processing: AS1100
+2023-12-30 17:57:52,568 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:53,077 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:53,206 - INFO - Processing: AS1200
+2023-12-30 17:57:53,208 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:53,777 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:53,986 - INFO - Processing: AS1300
+2023-12-30 17:57:53,987 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:54,422 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:54,610 - INFO - Processing: AS1400
+2023-12-30 17:57:54,611 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:55,138 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:55,258 - INFO - Processing: AS1500
+2023-12-30 17:57:55,259 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:55,681 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:55,879 - INFO - Processing: AS1600
+2023-12-30 17:57:55,881 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:56,368 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:56,495 - INFO - Processing: AS1700
+2023-12-30 17:57:56,496 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:57,045 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:57,204 - INFO - Processing: AS1800
+2023-12-30 17:57:57,205 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:57,552 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:57,698 - INFO - Processing: AS1900
+2023-12-30 17:57:57,699 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:58,108 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=1900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:58,310 - INFO - Processing: AS2000
+2023-12-30 17:57:58,311 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:58,825 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:58,951 - INFO - Processing: AS2100
+2023-12-30 17:57:58,951 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:57:59,399 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:57:59,584 - INFO - Processing: AS2200
+2023-12-30 17:57:59,585 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:00,162 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:00,424 - INFO - Processing: AS2300
+2023-12-30 17:58:00,425 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:00,975 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:01,118 - INFO - Processing: AS2400
+2023-12-30 17:58:01,119 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:01,493 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:01,611 - INFO - Processing: AS2500
+2023-12-30 17:58:01,612 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:02,084 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:02,252 - INFO - Processing: AS2600
+2023-12-30 17:58:02,253 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:02,641 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:02,787 - INFO - Processing: AS2700
+2023-12-30 17:58:02,789 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:03,160 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:03,347 - INFO - Processing: AS2800
+2023-12-30 17:58:03,348 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:03,942 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:04,122 - INFO - Processing: AS2900
+2023-12-30 17:58:04,123 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:04,764 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=2900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:04,915 - INFO - Processing: AS3000
+2023-12-30 17:58:04,916 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:05,379 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:05,606 - INFO - Processing: AS3100
+2023-12-30 17:58:05,607 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:06,095 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:06,541 - INFO - Processing: AS3200
+2023-12-30 17:58:06,543 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:06,939 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:07,093 - INFO - Processing: AS3300
+2023-12-30 17:58:07,094 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:07,479 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:07,630 - INFO - Processing: AS3400
+2023-12-30 17:58:07,631 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:08,176 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:08,382 - INFO - Processing: AS3500
+2023-12-30 17:58:08,383 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:08,859 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:09,002 - INFO - Processing: AS3600
+2023-12-30 17:58:09,003 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:09,474 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:09,603 - INFO - Processing: AS3700
+2023-12-30 17:58:09,604 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:09,985 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AS&t=A&b=3700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:10,082 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:10,410 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:10,485 - INFO - Counts: AT 685
+2023-12-30 17:58:10,486 - INFO - Processing: AT0
+2023-12-30 17:58:10,490 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:10,984 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:11,147 - INFO - Processing: AT100
+2023-12-30 17:58:11,149 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:11,626 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:11,780 - INFO - Processing: AT200
+2023-12-30 17:58:11,781 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:12,192 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:12,412 - INFO - Processing: AT300
+2023-12-30 17:58:12,414 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:12,956 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:13,080 - INFO - Processing: AT400
+2023-12-30 17:58:13,081 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:13,571 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:13,702 - INFO - Processing: AT500
+2023-12-30 17:58:13,704 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:14,169 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:14,326 - INFO - Processing: AT600
+2023-12-30 17:58:14,327 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:14,902 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:15,050 - INFO - Processing: AT700
+2023-12-30 17:58:15,051 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:15,517 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AT&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:15,612 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:16,132 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:16,196 - INFO - Counts: AU 1215
+2023-12-30 17:58:16,197 - INFO - Processing: AU0
+2023-12-30 17:58:16,201 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:16,746 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:16,898 - INFO - Processing: AU100
+2023-12-30 17:58:16,899 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:17,309 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:17,507 - INFO - Processing: AU200
+2023-12-30 17:58:17,508 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:17,937 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:18,081 - INFO - Processing: AU300
+2023-12-30 17:58:18,082 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:18,696 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:18,926 - INFO - Processing: AU400
+2023-12-30 17:58:18,927 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:19,392 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:19,630 - INFO - Processing: AU500
+2023-12-30 17:58:19,631 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:20,329 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:20,464 - INFO - Processing: AU600
+2023-12-30 17:58:20,466 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:21,046 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:21,225 - INFO - Processing: AU700
+2023-12-30 17:58:21,226 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:21,762 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:21,886 - INFO - Processing: AU800
+2023-12-30 17:58:21,887 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:22,377 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:22,578 - INFO - Processing: AU900
+2023-12-30 17:58:22,579 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:23,140 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:23,360 - INFO - Processing: AU1000
+2023-12-30 17:58:23,361 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:23,914 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:24,033 - INFO - Processing: AU1100
+2023-12-30 17:58:24,034 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:24,528 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=1100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:24,660 - INFO - Processing: AU1200
+2023-12-30 17:58:24,663 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:25,077 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=1200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:25,238 - INFO - Processing: AU1300
+2023-12-30 17:58:25,241 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:25,763 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AU&t=A&b=1300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:25,855 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:26,289 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:26,374 - INFO - Counts: AV 539
+2023-12-30 17:58:26,374 - INFO - Processing: AV0
+2023-12-30 17:58:26,379 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:26,778 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:26,957 - INFO - Processing: AV100
+2023-12-30 17:58:26,958 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:27,437 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:27,619 - INFO - Processing: AV200
+2023-12-30 17:58:27,620 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:28,160 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:28,340 - INFO - Processing: AV300
+2023-12-30 17:58:28,341 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:28,795 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:28,952 - INFO - Processing: AV400
+2023-12-30 17:58:28,953 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:29,359 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:29,545 - INFO - Processing: AV500
+2023-12-30 17:58:29,547 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:29,883 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:29,998 - INFO - Processing: AV600
+2023-12-30 17:58:30,000 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:30,467 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AV&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:30,563 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:30,987 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AW&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:31,068 - INFO - Counts: AW 89
+2023-12-30 17:58:31,069 - INFO - Processing: AW0
+2023-12-30 17:58:31,073 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:31,491 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AW&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:31,603 - INFO - Processing: AW100
+2023-12-30 17:58:31,604 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:32,107 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AW&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:32,283 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:32,822 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AX&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:32,888 - INFO - Counts: AX 258
+2023-12-30 17:58:32,888 - INFO - Processing: AX0
+2023-12-30 17:58:32,892 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:33,400 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AX&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:33,587 - INFO - Processing: AX100
+2023-12-30 17:58:33,589 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:34,154 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AX&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:34,277 - INFO - Processing: AX200
+2023-12-30 17:58:34,278 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:34,694 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AX&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:34,854 - INFO - Processing: AX300
+2023-12-30 17:58:34,856 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:35,213 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AX&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:35,322 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:35,791 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AY&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:36,091 - INFO - Counts: AY 109
+2023-12-30 17:58:36,091 - INFO - Processing: AY0
+2023-12-30 17:58:36,094 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:36,610 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AY&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:36,723 - INFO - Processing: AY100
+2023-12-30 17:58:36,724 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:37,227 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AY&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:37,318 - INFO - Processing: AY200
+2023-12-30 17:58:37,319 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:37,725 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AY&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:37,874 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:38,413 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AZ&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:38,515 - INFO - Counts: AZ 160
+2023-12-30 17:58:38,516 - INFO - Processing: AZ0
+2023-12-30 17:58:38,519 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:39,050 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AZ&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:39,248 - INFO - Processing: AZ100
+2023-12-30 17:58:39,250 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:39,625 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AZ&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:39,777 - INFO - Processing: AZ200
+2023-12-30 17:58:39,778 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:40,159 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=AZ&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:40,255 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:40,685 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A0&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:40,794 - INFO - Counts: A0 24
+2023-12-30 17:58:40,795 - INFO - Processing: A00
+2023-12-30 17:58:40,799 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:41,173 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A0&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:41,328 - INFO - Processing: A0100
+2023-12-30 17:58:41,330 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:41,834 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A0&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:41,940 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:42,450 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A1&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:42,540 - INFO - Counts: A1 40
+2023-12-30 17:58:42,540 - INFO - Processing: A10
+2023-12-30 17:58:42,544 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:42,901 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A1&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:43,093 - INFO - Processing: A1100
+2023-12-30 17:58:43,094 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:43,472 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A1&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:43,570 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:43,983 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A2&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:44,055 - INFO - Counts: A2 53
+2023-12-30 17:58:44,056 - INFO - Processing: A20
+2023-12-30 17:58:44,058 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:44,496 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A2&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:44,608 - INFO - Processing: A2100
+2023-12-30 17:58:44,610 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:45,020 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A2&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:45,137 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:45,723 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A3&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:45,786 - INFO - Counts: A3 20
+2023-12-30 17:58:45,786 - INFO - Processing: A30
+2023-12-30 17:58:45,789 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:46,339 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A3&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:46,437 - INFO - Processing: A3100
+2023-12-30 17:58:46,438 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:46,852 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A3&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:46,963 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:47,349 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A4&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:47,427 - INFO - Counts: A4 20
+2023-12-30 17:58:47,428 - INFO - Processing: A40
+2023-12-30 17:58:47,431 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:47,979 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A4&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:48,078 - INFO - Processing: A4100
+2023-12-30 17:58:48,079 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:48,492 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A4&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:48,622 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:49,104 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A5&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:49,173 - INFO - Counts: A5 37
+2023-12-30 17:58:49,174 - INFO - Processing: A50
+2023-12-30 17:58:49,178 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:49,615 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A5&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:49,759 - INFO - Processing: A5100
+2023-12-30 17:58:49,762 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:50,297 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A5&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:50,435 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:50,846 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A6&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:50,925 - INFO - Counts: A6 25
+2023-12-30 17:58:50,925 - INFO - Processing: A60
+2023-12-30 17:58:50,928 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:51,356 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A6&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:51,469 - INFO - Processing: A6100
+2023-12-30 17:58:51,470 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:51,971 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A6&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:52,069 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:52,460 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A7&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:52,540 - INFO - Counts: A7 20
+2023-12-30 17:58:52,541 - INFO - Processing: A70
+2023-12-30 17:58:52,546 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:53,084 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A7&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:53,195 - INFO - Processing: A7100
+2023-12-30 17:58:53,197 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:53,615 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A7&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:53,718 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:54,077 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A8&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:54,164 - INFO - Counts: A8 21
+2023-12-30 17:58:54,164 - INFO - Processing: A80
+2023-12-30 17:58:54,166 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:54,839 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A8&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:54,943 - INFO - Processing: A8100
+2023-12-30 17:58:54,944 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:55,453 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A8&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:55,562 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:55,964 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A9&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:56,036 - INFO - Counts: A9 20
+2023-12-30 17:58:56,036 - INFO - Processing: A90
+2023-12-30 17:58:56,039 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:56,580 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A9&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:56,685 - INFO - Processing: A9100
+2023-12-30 17:58:56,686 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:57,174 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=A9&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:57,296 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:57,677 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=0&c=25 HTTP/1.1" 200 None
+2023-12-30 17:58:57,756 - INFO - Counts: BA 4028
+2023-12-30 17:58:57,757 - INFO - Processing: BA0
+2023-12-30 17:58:57,759 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:58,218 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=0&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:58,416 - INFO - Processing: BA100
+2023-12-30 17:58:58,417 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:59,239 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=100&c=100 HTTP/1.1" 200 None
+2023-12-30 17:58:59,388 - INFO - Processing: BA200
+2023-12-30 17:58:59,389 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:58:59,892 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=200&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:00,003 - INFO - Processing: BA300
+2023-12-30 17:59:00,004 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:00,470 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=300&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:00,618 - INFO - Processing: BA400
+2023-12-30 17:59:00,619 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:01,098 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=400&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:01,280 - INFO - Processing: BA500
+2023-12-30 17:59:01,281 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:01,802 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=500&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:01,930 - INFO - Processing: BA600
+2023-12-30 17:59:01,932 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:02,318 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=600&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:02,505 - INFO - Processing: BA700
+2023-12-30 17:59:02,506 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:03,031 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=700&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:03,146 - INFO - Processing: BA800
+2023-12-30 17:59:03,147 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:03,599 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=800&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:03,771 - INFO - Processing: BA900
+2023-12-30 17:59:03,773 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:04,156 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=900&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:04,287 - INFO - Processing: BA1000
+2023-12-30 17:59:04,288 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
+2023-12-30 17:59:04,772 - DEBUG - https://finance.yahoo.com:443 "GET /lookup/equity?s=BA&t=A&b=1000&c=100 HTTP/1.1" 200 None
+2023-12-30 17:59:04,888 - INFO - Processing: BA1100
+2023-12-30 17:59:04,889 - DEBUG - Starting new HTTPS connection (1): finance.yahoo.com:443
