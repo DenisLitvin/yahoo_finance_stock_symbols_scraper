@@ -18,5 +18,3 @@ If so, use `pip install <library name>` .  The only ones I am using are logging 
 - Output file size is about 16MB
 - Console messages are shown while the script is executing
 - Log file contains the console messages is stored in yh_get_all_sym.log
-
-# Sample output
